@@ -7,7 +7,7 @@ This is the repository where I intend to write my progress throughout learning P
 
 Day starts with December 09 2020.
 
-![Capture image](Assets/Capture.png)
+![Capture image](Assets/Capture.PNG)
 
 ## December 2020
 
