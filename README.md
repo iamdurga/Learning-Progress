@@ -5,15 +5,16 @@ This is the repository where I intend to write my progress throughout learning P
 * [December 2020](#December-2020)
 * [January 2021](#January-2021)
 
-Day starts with December 10 2020.
+Day starts with December 09 2020.
 
 
 ## December 2020
 
 | Day          | What I learned | Where I Learned | Hours I Spent | Reference Links | Remarks |
 |-----------------|----------------|---------------|------|---------------|-----------|
-| December 10 2020  | Introduction to Python, Introduction to HTML            |  Coursera, Freecodecamp            |3    |    None         |   Python is like Human Language.      |
+| December 09 2020  | Introduction to Python, Introduction to HTML            |  Coursera, Freecodecamp            |3    |    None         |   Python is like Human Language.      |
 | December 11 2020 | Python Variables             | Coursera             | 3    | None             | None        |
+|                 |                |               |      |               |           |
 |                 |                |               |      |               |           |
 
 ## January 2021
