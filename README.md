@@ -8,15 +8,16 @@ This is the repository where I intend to write my progress throughout learning P
 
 Day starts with December 10 2020.
 
-
-
 ## December 2020
 
 | Day          | What I learned | Where I Learned | Hours I Spent | Reference Links | Remarks |
 |-----------------|----------------|---------------|------|---------------|-----------|
 | December 10 2020  |Introduction to Python, Introduction to HTML            |  Coursera, Freecodecamp            |3    |    None         |   Python is like Human Language.      |
-| December 11 2020 | Python Dictionary             | Youtube            | 3    | None             | None        |
-|                 |                |               |      |               |           |
+| December 11 2020 | Python Dictionary             | Youtube             | 3    | None             | None        |
+| December 12 2020                |Conversion from Decimal to Binary                |With friend               | 4     |  None             |           |
+|December 13 2020                 |Class, Conversion from other number system to Binaru                |Coursera, Friend               |7      |None               |           |
+
+      |
 |                 |                |               |      |               |           |
 
 ## January 2021
@@ -25,7 +26,8 @@ Day starts with December 10 2020.
 |-----------------|----------------|---------------|------|---------------|-----------|
 | December 10 2020  | Introduction to Python, Introduction to HTML            |  Coursera, Freecodecamp            |3    |    None         |   Python is like Human Language.      |
 | December 11 2020 | Python Variables             | Coursera             | 3    | None             | None        |
-|                 |                |               |      |               |           |
+| December 12 2020                |Conversion from Decimal to Binary                |With friend               | 4     |  None             |           |
+|December 13 2020                 |Class, Conversion from other number system to Binaru                |Coursera, Friend               |7      |None               |           |          |
 
 
 
@@ -35,5 +37,5 @@ Day starts with December 10 2020.
 |-----------------|----------------|---------------|------|---------------|-----------|
 | December 10 2020  |Introduction to Python, Introduction to HTML            |  Coursera, Freecodecamp            |3    |    None         |   Python is like Human Language.      |
 | December 11 2020 | Python Dictionary             | Youtube             | 3    | None             | None        |
-|                 |                |               |      |               |           |
-|                 |                |               |      |               |           |
+| December 12 2020                |Conversion from Decimal to Binary                |With friend               | 4     |  None             |           |
+|December 13 2020                 |Class, Conversion from other number system to Binaru                |Coursera, Friend               |7      |None               |           |
