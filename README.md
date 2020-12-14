@@ -16,9 +16,7 @@ Day starts with December 10 2020.
 | December 11 2020 | Python Dictionary             | Youtube             | 3    | None             | None        |
 | December 12 2020                |Conversion from Decimal to Binary                |With friend               | 4     |  None             |           |
 |December 13 2020                 |Class, Conversion from other number system to Binaru                |Coursera, Friend               |7      |None               |           |
-
-      |
-|                 |                |               |      |               |           |
+|December 14 2020                 | Conversion from Binary to Decimal               | Youtube              | 1     |               |pop() is used for removes and return last value from the list.           |
 
 ## January 2021
 
