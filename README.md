@@ -18,6 +18,7 @@ Day starts with December 10 2020.
 |December 13 2020                 |Class, Conversion from other number system to Binaru                |Coursera, Friend               |7      |None               |           |
 |December 14 2020                 | Conversion from Binary to Decimal               | Youtube              | 1     |               |pop() is used for removes and return last value from the list.
 |December 15 2020                 | Function , Some concept of HTML              | Notecopy, Freecodecamp             | 6    |  None             |None
+|December 16 2020                 | Function , Some concept of HTML              | Notecopy, Freecodecamp , Textbook             | 7    |  None             |None
 
 ## January 2021
 
@@ -37,4 +38,4 @@ Day starts with December 10 2020.
 | December 10 2020  |Introduction to Python, Introduction to HTML            |  Coursera, Freecodecamp            |3    |    None         |   Python is like Human Language.      |
 | December 11 2020 | Python Dictionary             | Youtube             | 3    | None             | None        |
 | December 12 2020                |Conversion from Decimal to Binary                |With friend               | 4     |  None             |           |
-|December 13 2020                 |Class, Conversion from other number system to Binaru                |Coursera, Friend               |7      |None               |           |
+|December 13 2020                 |HTML,Some Basic concept in python form text book                |Courser, Friend               |7      |Pythonlearn.PDF              | None          |
