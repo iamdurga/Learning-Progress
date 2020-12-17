@@ -19,6 +19,7 @@ Day starts with December 10 2020.
 |December 14 2020                 | Conversion from Binary to Decimal               | Youtube              | 1     |               |pop() is used for removes and return last value from the list.
 |December 15 2020                 | Function , Some concept of HTML              | Notecopy, Freecodecamp             | 6    |  None             |None
 |December 16 2020                 | HTML , Some concept on python              | Notecopy, Freecodecamp , Textbook             | 7    |  None             |None
+|December 17 2020                 |Function on python, Some other concept on python , Code on logical gate, Blog on python              | Notecopy, W3school , Textbook ,friend            | 10    |  None             |None
 
 ## January 2021
 
