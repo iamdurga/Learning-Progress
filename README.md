@@ -22,6 +22,7 @@ Day starts with December 10 2020.
 |December 17 2020                 |Function on python, Some other concept on python , Code on logical gate, Blog on python              | Notecopy, W3school , Textbook ,friend            | 10    |  None             |None
 |December 18 2020                 | Some  basic concept on python, Somecode on python              | Notecopy, W3school , Textbook            | 5   |  None             |None
 |December 19 2020    |Sets in python, Dictionary in python, if..else ,While loop in python, function in python, lambda in python, Array in python, Class/object, Pythoninheritance, Python iteration, python scope                         | W3school            | 5   |  None             |None
+|December 20 2020                 |Nothing              | Nothing          | ...    |  None             |None
 
 ## January 2021
 
