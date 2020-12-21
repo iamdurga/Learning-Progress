@@ -23,6 +23,7 @@ Day starts with December 10 2020.
 |December 18 2020                 | Some  basic concept on python, Somecode on python              | Notecopy, W3school , Textbook            | 5   |  None             |None
 |December 19 2020    |Sets in python, Dictionary in python, if..else ,While loop in python, function in python, lambda in python, Array in python, Class/object, Pythoninheritance, Python iteration, python scope                         | W3school            | 5   |  None             |None
 |December 20 2020                 |Nothing              | Nothing          | ...    |  None             |None
+|December 21 2020                 |Python code to find  Grade of students, Code to add, sub,mul,div,mod,exp in same code,Python code to find the LCF of number,python code for Electric Bill, Python code to find the sum of cube series,Code for Multiplication table,Code to find factors and prime factors of number              | Tutorial Gateway          | 9    |  www.tutorialgateway.org            |None
 
 ## January 2021
 
