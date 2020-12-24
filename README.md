@@ -26,6 +26,7 @@ Day starts with December 10 2020.
 |December 21 2020                 |Python code to find  Grade of students, Code to add, sub,mul,div,mod,exp in same code,Python code to find the LCF of number,python code for Electric Bill, Python code to find the sum of cube series,Code for Multiplication table,Code to find factors and prime factors of number              | Tutorial Gateway          | 9    |  www.tutorialgateway.org            |None
 | December 22 2020                |Map,Reduce,Zip,Lambda,Enumerate,Join,Iter,Generater,Python code to find simple intrest                |Tutorial Gateway                | 4     | www.tutorialgateway.org              | None          |
 | December 23 2020                |Python for Everybody               |Coursera              | 6     |  None             | None          |
+| December 24 2020                |Python for Everybody,Python Data structure               |Coursera              | 6    |  None             | Coursera online course          |
 
 ## January 2021
 
