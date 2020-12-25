@@ -27,6 +27,8 @@ Day starts with December 10 2020.
 | December 22 2020                |Map,Reduce,Zip,Lambda,Enumerate,Join,Iter,Generater,Python code to find simple intrest                |Tutorial Gateway                | 4     | www.tutorialgateway.org              | None          |
 | December 23 2020                |Python for Everybody               |Coursera              | 6     |  None             | None          |
 | December 24 2020                |Python for Everybody,Python Data structure               |Coursera              | 6    |  None             | Coursera online course          |
+| December 25 2020                |HTML,Python Data structure               |Coursera, Freecodecamp              | 8    |  None             | Coursera online course          |
+
 
 ## January 2021
 
