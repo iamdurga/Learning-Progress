@@ -31,6 +31,7 @@ Day starts with December 10 2020.
 | December 26 2020                |Python Data structure, Some code in python               |Coursera            | 1   |  None             | Coursera online course          |
 | December 27 2020                |Python Data structure, HTML              |Coursera, Freecodecamp           | 5   |  None             | Coursera online course          |
 | December 28 2020                |Python Data structure, HTML              |Coursera, Freecodecamp           | 4   |  None             | Coursera online course          |
+| December 29 2020                |Python Data structure              |Coursera           | 2   |  None             | Coursera online course          |
 
 
 
