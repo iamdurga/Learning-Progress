@@ -40,9 +40,9 @@ Day starts with December 10 2020.
 | Day          | What I learned | Where I Learned | Hours I Spent | Reference Links | Remarks |
 |-----------------|----------------|---------------|------|---------------|-----------|
 | January 1 2021  | Database on Python, Basic CSS,Some challenges            |  Coursera, Freecodecamp            |7    |    None         |   Python is like Human Language.      |
-| january 2 2021 | Basic css, some challenges, Python code             | HTML, Friend             | 5  | None             | None        |
-| December 12 2020                |Conversion from Decimal to Binary                |With friend               | 4     |  None             |           |
-|December 13 2020                 |Class, Conversion from other number system to Binaru                |Coursera, Friend               |7      |None               |           |          |
+| January 2 2021 | Basic css, some challenges, Python code             | HTML, Friend             | 5  | None             | None        |
+| January 3 2021                |Databse on python, CSS , Some challanges                |Coursera, Freecodecamp               | 4     |  None             |           |
+|December 13 2020                 |Class, Conversion from other number system to Binaru                |Coursera, Friend               |6    |None               |   None        |          |
 
 
 
