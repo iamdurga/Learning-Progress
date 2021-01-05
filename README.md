@@ -42,8 +42,8 @@ Day starts with December 10 2020.
 | January 1 2021  | Database on Python, Basic CSS,Some challenges            |  Coursera, Freecodecamp            |7    |    None         |   Python is like Human Language.      |
 | January 2 2021 | Basic css, some challenges, Python code             | HTML, Friend             | 5  | None             | None        |
 | January 3 2021                |Databse on python, CSS , Some challanges                |Coursera, Freecodecamp               | 4     |  None             |           |
-|January 4 2021                 |More properties of CSS            |Freecodecamp              |64   |None               |   None        |          |
-
+|January 4 2021                 |More properties of CSS            |Freecodecamp              |4   |None               |   None        |          |
+|January 5 2021                 |More properties of CSS            |Freecodecamp              |4   |None               |   None        |          |
 
 
 ## February 2021
