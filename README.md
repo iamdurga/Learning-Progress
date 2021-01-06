@@ -44,7 +44,7 @@ Day starts with December 10 2020.
 | January 3 2021                |Databse on python, CSS , Some challanges                |Coursera, Freecodecamp               | 4     |  None             |           |
 |January 4 2021                 |More properties of CSS            |Freecodecamp              |4   |None               |   None        |          |
 |January 5 2021                 |More properties of CSS            |Freecodecamp              |4   |None               |   None        |          |
-
+|January 6 2021                 |More properties of CSS, Web access            |Freecodecamp , Coursera             | 5  |None               |   None        |          |
 
 ## February 2021
 
