@@ -23,16 +23,16 @@ Day starts with December 10 2020.
 |December 18 2020                 | Some  basic concept on python, Somecode on python              | Notecopy, W3school , Textbook            | 5   |  None             |None
 |December 19 2020    |Sets in python, Dictionary in python, if..else ,While loop in python, function in python, lambda in python, Array in python, Class/object, Pythoninheritance, Python iteration, python scope                         | W3school            | 5   |  None             |None
 |December 20 2020                 |Nothing              | Nothing          | ...    |  None             |None
-|December 21 2020                 |Python code to find  Grade of students, Code to add, sub,mul,div,mod,exp in same code,Python code to find the LCF of number,python code for Electric Bill, Python code to find the sum of cube series,Code for Multiplication table,Code to find factors and prime factors of number              | Tutorial Gateway          | 9    |  www.tutorialgateway.org            |None
-| December 22 2020                |Map,Reduce,Zip,Lambda,Enumerate,Join,Iter,Generater,Python code to find simple intrest                |Tutorial Gateway                | 4     | www.tutorialgateway.org              | None          |
+|December 21 2020                 |Python code to find  Grade of students, Code to add, sub, mul, div, mod, exp in same code,Python code to find the LCF of number, python code for Electric Bill, Python code to find the sum of cube series,Code for Multiplication table, Code to find factors and prime factors of number              | Tutorial Gateway          | 9    |  www.tutorialgateway.org            |None
+| December 22 2020                |Map,Reduce, Zip, Lambda, Enumerate, Join, Iter, Generater, Python code to find simple intrest                |Tutorial Gateway                | 4     | www.tutorialgateway.org              | None          |
 | December 23 2020                |Python for Everybody               |Coursera              | 6     |  None             | None          |
-| December 24 2020                |Python for Everybody,Python Data structure               |Coursera              | 6    |  None             | Coursera online course          |
-| December 25 2020                |HTML,Python Data structure               |Coursera, Freecodecamp              | 8    |  None             | Coursera online course          |
+| December 24 2020                |Python for Everybody, Python Data structure               |Coursera              | 6    |  None             | Coursera online course          |
+| December 25 2020                |HTML, Python Data structure               |Coursera, Freecodecamp              | 8    |  None             | Coursera online course          |
 | December 26 2020                |Python Data structure, Some code in python               |Coursera            | 1   |  None             | Coursera online course          |
 | December 27 2020                |Python Data structure, HTML              |Coursera, Freecodecamp           | 5   |  None             | Coursera online course          |
 | December 28 2020                |Python Data structure, HTML              |Coursera, Freecodecamp           | 4   |  None             | Coursera online course          |
 | December 29 2020                |Python Data structure              |Coursera           | 2   |  None             | Coursera online course          |
-| December 30 2020  |Python Data structure,HTML            |  Coursera, Freecodecamp            |2    |    None         |   None      |
+| December 30 2020  |Python Data structure, HTML            |  Coursera, Freecodecamp            |2    |    None         |   None      |
 | December 31 2020  |Basic css          |   Freecodecamp            |5    |    None         |   None      |
 
 ## January 2021
@@ -43,9 +43,12 @@ Day starts with December 10 2020.
 | January 2 2021 | Basic css, some challenges, Python code             | HTML, Friend             | 5  | None             | None        |
 | January 3 2021                |Databse on python, CSS , Some challanges                |Coursera, Freecodecamp               | 4     |  None             |           |
 |January 4 2021                 |More properties of CSS            |Freecodecamp              |4   |None               |   None        |          |
-|January 5 2021                 |More properties of CSS            |Freecodecamp              |4   |None               |   None        |          |
+|January 8 2021                 |More properties of CSS, Python acess to web data            |Freecodecamp, Coursera              |4   |None               |   None        |          |
 |January 6 2021                 |More properties of CSS, Python access to web data            |[Freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/add-an-accessible-date-picker), [Coursera](https://www.coursera.org/learn/python-network-data/gradedLti/mEdBo/extracting-data-with-regular-expressions)              |5  |None               |   None        |          |
 |January 7 2021                 |More properties of CSS, Python access to web data, Some mathematical problem on python            |[Freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/), [Coursera ](https://www.coursera.org/learn/python-network-data/lecture/MbRIS/12-3-unicode-characters-and-strings)            |7  |None               |   None        |          |
+|January 5 2021                 |More properties of CSS            |Freecodecamp              |4   |None               |   None        |          |
+|January 9 2021                 |Attempt first challenge on Adventofcode ,Python access to web data          |[Adventofcode](https://adventofcode.com/2020/day/1), Coursera            |6 |None               |   None        |          |
+
 
 ## February 2021
 
