@@ -48,6 +48,7 @@ Day starts with December 10 2020.
 |January 7 2021                 |More properties of CSS, Python access to web data, Some mathematical problem on python            |[Freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/), [Coursera ](https://www.coursera.org/learn/python-network-data/lecture/MbRIS/12-3-unicode-characters-and-strings)            |7  |None               |   None        |          |
 |January 5 2021                 |More properties of CSS            |Freecodecamp              |4   |None               |   None        |          |
 |January 9 2021                 |Attempt first challenge on Adventofcode ,Python access to web data          |[Adventofcode](https://adventofcode.com/2020/day/1), Coursera            |6 |None               |   None        |          |
+|January 10 2021                 |More properties of CSS, Python access to web data           |Freecodecamp ,coursera             |4   |None               |   None        |   
 
 
 ## February 2021
