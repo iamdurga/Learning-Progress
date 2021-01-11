@@ -49,6 +49,7 @@ Day starts with December 10 2020.
 |January 5 2021                 |More properties of CSS            |Freecodecamp              |4   |None               |   None        |          |
 |January 9 2021                 |Attempt first challenge on Adventofcode ,Python access to web data          |[Adventofcode](https://adventofcode.com/2020/day/1), Coursera            |6 |None               |   None        |          |
 |January 10 2021                 |More properties of CSS, Python access to web data           |Freecodecamp ,coursera             |4   |None               |   None        |   
+|January 11 2021                 |More properties of CSS, Python access to web data, Completed day2 challenge            |Freecodecamp ,coursera ,advent of code            |6  | [Freecodecamp], [Coursera ], [Adventofcode]             |   None        |   
 
 
 ## February 2021
