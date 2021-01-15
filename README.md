@@ -53,6 +53,7 @@ Day starts with December 10 2020.
 |January 12 2021                 |Python access to            |Freecodecamp              |4   |None               |   None        |          |
 |January 13 2021                 |Regular expression, class in python            |coursera, friend, Google             |5  |None               |   None        |
 |January 14 2021                 |Regular expression, class in python, HTML            |Coursera, friend, Google ,Freecodecamp            |6 |None               |   None        |
+|January 15 2021                 |Revised Programming for everybody, HTML            |Coursera, friend, Google ,Freecodecamp            |3 |None               |   None        |
 
 ## February 2021
 
