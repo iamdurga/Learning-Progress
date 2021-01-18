@@ -56,6 +56,7 @@ Day starts with December 10 2020.
 |January 15 2021                 |Revised Programming for everybody, HTML            |Coursera, friend, Google ,Freecodecamp            |3 |None               |   None        |
 |January 16 2021                 |Python basic, HTML            |Coursera, friend, Google ,Freecodecamp            |3 |None               |   None        |
 |January 17 2021                 |Python basic           | friend, Google            |2|None               |   None        |
+|January 18 2021                 |Python decorators           | friend, Google            |1|(https://www.programiz.com/python-programming/decorator)              |   None        |
 
 ## February 2021
 
