@@ -59,6 +59,7 @@ Day starts with December 10 2020.
 |January 18 2021                 |Python decorators           | friend, Google            |1|(https://www.programiz.com/python-programming/decorator)              |   None        |
 |January 19 2021                 |Class Inheritance, Python basic           | friend, Google            |5| None              |   None        |
 |January 20 2021                 |Class Inheritance, Python database         | friend, Google,Coursera            |7| (https://www.coursera.org/learn/python-databases/resources/50VNs)              |   None        |
+|January 21 2021                 |Database on python           | Coursera           |5| [coursera](https://www.coursera.org/learn/python-databases/home/welcome)               |   None        |
 
 ## February 2021
 
