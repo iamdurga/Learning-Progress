@@ -1,3 +1,4 @@
+
 # Coding Journey of Non-Technical Girl From Nepal
 This is the repository where I intend to write my progress throughout learning Python Programming Language and Data Science field. I am compeletly new to even a HTML and I am on complete delimma what to do and what not. But I made a decision that I am not going to do my Masters on Mathematics. I will try to write what I learned on each day and If possible I will include the links to reference.
 
@@ -60,6 +61,7 @@ Day starts with December 10 2020.
 |January 19 2021                 |Class Inheritance, Python basic           | friend, Google            |5| None              |   None        |
 |January 20 2021                 |Class Inheritance, Python database         | friend, Google,Coursera            |7| (https://www.coursera.org/learn/python-databases/resources/50VNs)              |   None        |
 |January 21 2021                 |Database on python           | Coursera           |5| [coursera](https://www.coursera.org/learn/python-databases/home/welcome)               |   None        |
+|January 22 2021                 |Python Database          | friend, Google,coursera            |5|None               |   None        |
 
 ## February 2021
 
