@@ -1,4 +1,3 @@
-
 # Coding Journey of Non-Technical Girl From Nepal
 This is the repository where I intend to write my progress throughout learning Python Programming Language and Data Science field. I am compeletly new to even a HTML and I am on complete delimma what to do and what not. But I made a decision that I am not going to do my Masters on Mathematics. I will try to write what I learned on each day and If possible I will include the links to reference.
 
@@ -64,6 +63,7 @@ Day starts with December 10 2020.
 |January 22 2021                 |Python Database          | friend, Google,coursera            |5|None               |   None        |
 |January 23 2021                 |Python Database          | friend, Google,coursera            |4|None               |   None        |
 |January 24 2021                 |Python Database, Some example of python function          | friend, Google,coursera            |7|None               |   None        |
+|January 25 2021                 |Python Database         | friend, Google,coursera            |7|None               |   None        |
 
 ## February 2021
 
