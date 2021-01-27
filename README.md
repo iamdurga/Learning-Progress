@@ -65,7 +65,8 @@ Day starts with December 10 2020.
 |January 24 2021                 |Python Database, Some example of python function          | friend, Google,coursera            |7|None               |   None        |
 |January 25 2021                 |Python Database         | friend, Google,coursera            |7|None               |   None        |
 |January 26 2021                 |Python Database ,Python data strucure        | friend, Google,coursera            |5|None               |   None        |
- 
+|January 27 2021                 |Web access on python ,Python data strucure        | friend, Google,coursera            |5|None               |   None        |
+  
  
 ## February 2021
 
