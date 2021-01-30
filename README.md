@@ -51,24 +51,25 @@ Day starts with December 10 2020.
 |January 10 2021                 |More properties of CSS, Python access to web data           |Freecodecamp ,coursera             |4   |None               |   None        |   
 |January 11 2021                 |More properties of CSS, Python access to web data, Completed day2 challenge            |Freecodecamp ,coursera ,advent of code            |6  | [Freecodecamp], [Coursera ], [Adventofcode]             |   None        |   
 |January 12 2021                 |Python access to            |Freecodecamp              |4   |None               |   None        |          |
-|January 13 2021                 |Regular expression, class in python            |coursera, friend, Google             |5  |None               |   None        |
-|January 14 2021                 |Regular expression, class in python, HTML            |Coursera, friend, Google ,Freecodecamp            |6 |None               |   None        |
-|January 15 2021                 |Revised Programming for everybody, HTML            |Coursera, friend, Google ,Freecodecamp            |3 |None               |   None        |
-|January 16 2021                 |Python basic, HTML            |Coursera, friend, Google ,Freecodecamp            |3 |None               |   None        |
-|January 17 2021                 |Python basic           | friend, Google            |2|None               |   None        |
-|January 18 2021                 |Python decorators           | friend, Google            |1|(https://www.programiz.com/python-programming/decorator)              |   None        |
-|January 19 2021                 |Class Inheritance, Python basic           | friend, Google            |5| None              |   None        |
-|January 20 2021                 |Class Inheritance, Python database         | friend, Google,Coursera            |7| (https://www.coursera.org/learn/python-databases/resources/50VNs)              |   None        |
+|January 13 2021                 |Regular expression, class in python            |coursera, friend, Goggle             |5  |None               |   None        |
+|January 14 2021                 |Regular expression, class in python, HTML            |Coursera, friend, Goggle ,Freecodecamp            |6 |None               |   None        |
+|January 15 2021                 |Revised Programming for everybody, HTML            |Coursera, friend, Goggle ,Freecodecamp            |3 |None               |   None        |
+|January 16 2021                 |Python basic, HTML            |Coursera, friend, Goggle ,Freecodecamp            |3 |None               |   None        |
+|January 17 2021                 |Python basic           | friend, Goggle            |2|None               |   None        |
+|January 18 2021                 |Python decorators           | friend, Goggle            |1|(https://www.programiz.com/python-programming/decorator)              |   None        |
+|January 19 2021                 |Class Inheritance, Python basic           | friend, Goggle            |5| None              |   None        |
+|January 20 2021                 |Class Inheritance, Python database         | friend, Goggle,Coursera            |7| (https://www.coursera.org/learn/python-databases/resources/50VNs)              |   None        |
 |January 21 2021                 |Database on python           | Coursera           |5| [coursera](https://www.coursera.org/learn/python-databases/home/welcome)               |   None        |
-|January 22 2021                 |Python Database          | friend, Google,coursera            |5|None               |   None        |
-|January 23 2021                 |Python Database          | friend, Google,coursera            |4|None               |   None        |
-|January 24 2021                 |Python Database, Some example of python function          | friend, Google,coursera            |7|None               |   None        |
+|January 22 2021                 |Python Database          | friend, Goggle,coursera            |5|None               |   None        |
+|January 23 2021                 |Python Database          | friend, Goggle,coursera            |4|None               |   None        |
+|January 24 2021                 |Python Database, Some example of python function          | friend, Goggle,coursera            |7|None               |   None        |
 |January 25 2021                 |Python Database         | friend, Google,coursera            |7|None               |   None        |
-|January 26 2021                 |Python Database ,Python data strucure        | friend, Google,coursera            |5|None               |   None        |
-|January 27 2021                 |Web access on python ,Python data strucure        | friend, Google,coursera            |5|None               |   None        |
+|January 26 2021                 |Python Database ,Python data strucure        | Goggle,coursera            |5|None               |   None        |
+|January 27 2021                 |Web access on python ,Python data strucure        | Goggle,coursera            |5|None               |   None        |
 |January 28 2021                 |Web access on python ,Python data strucure, Iterator and Generator on python        |  Google,coursera            |4|None               |   None        |
-    
- 
+|January 29 2021                 |Python data strucure, Completed some assignment        |  Goggle,coursera            |5|None               |   None        |    
+|January 30 2021                 |Python data strucure(Stack), Completed some assignment        |  Goggle,coursera            |2| [Dev.to](https://dev.to/iamdurga/day-37-of-100daysofcode-basic-data-structure-stack-2h6)             |  None        |    
+  
 ## February 2021
 
 | Day          | What I learned | Where I Learned | Hours I Spent | Reference Links | Remarks |
