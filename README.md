@@ -68,7 +68,8 @@ Day starts with December 10 2020.
 |January 27 2021                 |Web access on python ,Python data strucure        | Goggle,coursera            |5|None               |   None        |
 |January 28 2021                 |Web access on python ,Python data strucure, Iterator and Generator on python        |  Google,coursera            |4|None               |   None        |
 |January 29 2021                 |Python data strucure, Completed some assignment        |  Goggle,coursera            |5|None               |   None        |    
-|January 30 2021                 |Python data strucure(Stack), Completed some assignment        |  Goggle,coursera            |2| [Dev.to](https://dev.to/iamdurga/day-37-of-100daysofcode-basic-data-structure-stack-2h6)             |  None        |    
+|January 30 2021                 |Python data strucure(Stack), Completed some assignment        |  Goggle,coursera            |2| [Dev.to](https://dev.to/iamdurga/day-37-of-100daysofcode-basic-data-structure-stack-2h6)             |  None        |
+|January 31 2021                 |Python data strucure and Algorithm       |  Google,coursera            |4|[Dev.to](https://dev.to/iamdurga/day-38-of-100daysofcode-basic-data-structure-queue-5g5j)                 |   None      |
   
 ## February 2021
 
