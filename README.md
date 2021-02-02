@@ -76,6 +76,6 @@ Day starts with December 10 2020.
 | Day          | What I learned | Where I Learned | Hours I Spent | Reference Links | Remarks |
 |-----------------|----------------|---------------|------|---------------|-----------|
 | February 1 2021  |Database using python            |  Coursera           |3    |    [Dev.to](https://dev.to/iamdurga/day-39-of-100daysofcode-voter-database-d45)        |   None    |
-| December 11 2020 | Python Dictionary             | Youtube             | 3    | None             | None        |
+| February 2 2021 | Database using python,sorting algorithm            | coursera,goggle             | 8   | [dev.to](https://dev.to/iamdurga/day-40-of-100daysofcode-dummy-project-in-database-using-python-2o26)            | None        |
 | December 12 2020                |Conversion from Decimal to Binary                |With friend               | 4     |  None             | None          |
 |December 13 2020                 |HTML,Some Basic concept in python form text book                |Courser, Friend               |7      |Pythonlearn.PDF              | None          |
