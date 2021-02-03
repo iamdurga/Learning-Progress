@@ -63,19 +63,19 @@ Day starts with December 10 2020.
 |January 22 2021                 |Python Database          | friend, Goggle,coursera            |5|None               |   None        |
 |January 23 2021                 |Python Database          | friend, Goggle,coursera            |4|None               |   None        |
 |January 24 2021                 |Python Database, Some example of python function          | friend, Goggle,coursera            |7|None               |   None        |
-|January 25 2021                 |Python Database         | friend, Google,coursera            |7|None               |   None        |
+|January 25 2021                 |Python Database         | friend, Goggle,coursera            |7|None               |   None        |
 |January 26 2021                 |Python Database ,Python data strucure        | Goggle,coursera            |5|None               |   None        |
 |January 27 2021                 |Web access on python ,Python data strucure        | Goggle,coursera            |5|None               |   None        |
 |January 28 2021                 |Web access on python ,Python data strucure, Iterator and Generator on python        |  Google,coursera            |4|None               |   None        |
 |January 29 2021                 |Python data strucure, Completed some assignment        |  Goggle,coursera            |5|None               |   None        |    
 |January 30 2021                 |Python data strucure(Stack), Completed some assignment        |  Goggle,coursera            |2| [Dev.to](https://dev.to/iamdurga/day-37-of-100daysofcode-basic-data-structure-stack-2h6)             |  None        |
-|January 31 2021                 |Python data strucure and Algorithm       |  Google,coursera            |4|[Dev.to](https://dev.to/iamdurga/day-38-of-100daysofcode-basic-data-structure-queue-5g5j)                 |   None      |
+|January 31 2021                 |Python data strucure and Algorithm       |  Goggle,coursera            |4|[Dev.to](https://dev.to/iamdurga/day-38-of-100daysofcode-basic-data-structure-queue-5g5j)                 |   None      |
   
 ## February 2021
 
 | Day          | What I learned | Where I Learned | Hours I Spent | Reference Links | Remarks |
 |-----------------|----------------|---------------|------|---------------|-----------|
 | February 1 2021  |Database using python            |  Coursera           |3    |    [Dev.to](https://dev.to/iamdurga/day-39-of-100daysofcode-voter-database-d45)        |   None    |
-| February 2 2021 | Database using python,sorting algorithm            | coursera,goggle             | 8   | [dev.to](https://dev.to/iamdurga/day-40-of-100daysofcode-dummy-project-in-database-using-python-2o26)            | None        |
-| December 12 2020                |Conversion from Decimal to Binary                |With friend               | 4     |  None             | None          |
+| February 2 2021 | Database using python,sorting algorithm            | coursera,Goggle             | 8   | [dev.to](https://dev.to/iamdurga/day-40-of-100daysofcode-dummy-project-in-database-using-python-2o26)            | None        |
+| February 3 2021               |Bubble sort, Insertion sort, Selection Sort,Heap sort,quick sort               |Goggle               | 6     |  [Goggle ](https://learntocodewith.me/posts/algorithmic-thinking/)            | None          |
 |December 13 2020                 |HTML,Some Basic concept in python form text book                |Courser, Friend               |7      |Pythonlearn.PDF              | None          |
