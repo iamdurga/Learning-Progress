@@ -83,3 +83,4 @@ Day starts with December 10 2020.
 |February 5 2021|NumPy basics, Algorithm(linear search, binary search)|[Reference Link](https://www.gatevidyalay.com/linear-search-searching-algorithms/)|7|[Day43](https://dev.to/iamdurga/day-43-of-100daysofcode-binary-search-n2e)|
 |February 6 2021|Algorithm(Time complexity,Space complexity of Bubble Sort)|[Link](https://www.studytonight.com/data-structures/bubble-sort)|1|[Day44](https://dev.to/iamdurga/day-2-of-100daysofcode-5gmj)|
 |February 7 2021|Algorithm(Time complexity,Space complexity of Insertion Sort)|[Link](https://www.studytonight.com/data-structures/insertion-sorting)|1|[Day45](https://dev.to/iamdurga/day-45-of-100daysofcode-more-about-insertion-sort-35hn)|
+|February 8 2021|Algorithm(Time complexity,Space complexity of Selection Sort)|[Link](https://www.geeksforgeeks.org/selection-sort/)|1|[Day49](https://dev.to/iamdurga/day-46-of-100daysofcode-more-about-selection-sort-2kdd)|
