@@ -86,3 +86,4 @@ Day starts with December 10 2020.
 |February 8 2021|Algorithm(Time complexity,Space complexity of Selection Sort)|[Link](https://www.geeksforgeeks.org/selection-sort/)|1|[Day46](https://dev.to/iamdurga/day-46-of-100daysofcode-more-about-selection-sort-2kdd)|
 |February 9 2021|Algorithm(Time complexity,Space complexity of Heap Sort)|[Link](https://www.geeksforgeeks.org/heap-sort/)|1|[Day47](https://dev.to/iamdurga/day-47-of-100daysofcode-more-about-algorithm-heap-sort-1anm)|
 |February 10 2021|Data Structure(Linked list data structure in python)|[Link](https://www.tutorialspoint.com/python_data_structure/python_hash_table.htm)[Day48](https://dev.to/iamdurga/day-48-of-100daysofcode-linked-list-4c82)|
+|February 11 2021|Data Structure(Advanced linked list data structure in python)|[Link](https://stackabuse.com/doubly-linked-list-with-python-examples/)[Day49](https://dev.to/iamdurga/day-48-of-100daysofcode-advanced-linked-list-4fb0)|
