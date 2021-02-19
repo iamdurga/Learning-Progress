@@ -91,3 +91,7 @@ Day starts with December 10 2020.
 |February 13 2021|Google PageRank Algoeithm| None|4|[Day51](https://dev.to/iamdurga/day-50-of-100daysofcode-google-pagerank-algorithm-421)|
 |February 14 2021|Algorithmics Toolbox|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)|4|[Day50](https://dev.to/iamdurga/day-50-of-100daysofcode-google-pagerank-algorithm-421)|
 |February 15 2021|Algorithmics Toolbox(python exec( ) function)|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)|4|[Day52](https://dev.to/iamdurga/day-50-of-100daysofcode-google-pagerank-algorithm-421)|
+|February 16 2021|Nothing|Nothing|Nothing |Nothing|
+|February 17 2021|Nothing|Nothing|Nothing |Nothing|
+|February 18 2021|Nothing|Nothing|Nothing |Nothing|
+|February 19 2021|Algorithmics Toolbox(Tried to write some algorithm(gcd,fibonacci number)|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)|4|[Day53](https://dev.to/iamdurga/day-53-of-100daysofcode-more-about-algorithm-44pa)|
