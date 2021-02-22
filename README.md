@@ -96,13 +96,5 @@ Day starts with December 10 2020.
 |February 18 2021|Nothing|Nothing|Nothing |Nothing|
 |February 19 2021|Algorithmics Toolbox(Tried to write some algorithm(gcd,fibonacci number)|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)|4|[Day53](https://dev.to/iamdurga/day-53-of-100daysofcode-more-about-algorithm-44pa)|
 |February 20 2021|Algorithmics Toolbox(Tried to write some algorithm(Lcm)|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)|4|[Day54](https://dev.to/iamdurga/day-54-of-100daysofcode-more-about-algorithm-3cl3)|
-
-|February 11 2021|Data Structure(Advanced linked list data structure in python)|[Link](https://stackabuse.com/doubly-linked-list-with-python-examples/)|2 |[Day49](https://dev.to/iamdurga/day-48-of-100daysofcode-advanced-linked-list-4fb0)|
-|February 12 2021|Nothing|Nothing|Nothing |Nothing|
-|February 13 2021|Google PageRank Algoeithm| None|4|[Day51](https://dev.to/iamdurga/day-50-of-100daysofcode-google-pagerank-algorithm-421)|
-|February 14 2021|Algorithmics Toolbox|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)|4|[Day50](https://dev.to/iamdurga/day-50-of-100daysofcode-google-pagerank-algorithm-421)|
-|February 15 2021|Algorithmics Toolbox(python exec( ) function)|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)|4|[Day52](https://dev.to/iamdurga/day-50-of-100daysofcode-google-pagerank-algorithm-421)|
-|February 16 2021|Nothing|Nothing|Nothing |Nothing|
-|February 17 2021|Nothing|Nothing|Nothing |Nothing|
-|February 18 2021|Nothing|Nothing|Nothing |Nothing|
-|February 19 2021|Algorithmics Toolbox(Tried to write some algorithm(gcd,fibonacci number)|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)|4|[Day53](https://dev.to/iamdurga/day-53-of-100daysofcode-more-about-algorithm-44pa)|
+|February 21 2021|Algorithmics Toolbox(Tried to write some algorithm)|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)|4|[Day55](https://dev.to/iamdurga/day-54-of-100dayscode-more-about-algorithm-32ib)|
+|February 22 2021|SQL From [Datacamp](https://campus.datacamp.com/courses/joining-data-in-postgresql/introduction-to-joins?ex=7)|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)|4|[Day56](https://dev.to/iamdurga/day-56-of-100daysofcode-more-properties-of-sql-2g7)|
