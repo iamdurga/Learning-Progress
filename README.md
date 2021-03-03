@@ -5,6 +5,7 @@ This is the repository where I intend to write my progress throughout learning P
 * [December 2020](#December-2020)
 * [January 2021](#January-2021)
 * [February 2021](#February-2021)
+* [March 2021](#March-2021)
 
 Day starts with December 10 2020.
 
@@ -29,11 +30,12 @@ Day starts with December 10 2020.
 | December 24 2020|Python Data structure|[Coursera](https://www.coursera.org/learn/python-data/home/welcome)| 6|None|
 | December 25 2020|HTML, Python Data structure|[Coursera](https://www.coursera.org/learn/python-data/home/welcome), [Freecodecamp](https://www.freecodecamp.org/learn)|8|[Day1](https://dev.to/iamdurga/day-1-of-100-days-of-code-python-basics-2e0m)|
 | December 26 2020|Python Data structure|[Coursera](https://www.coursera.org/completed?page=2)| 1|[Day2](https://dev.to/iamdurga/day-2-of-100daysofcode-5gmj)|
-| December 27 2020|Python Data structure, HTML|[Coursera](https://www.coursera.org/completed?page=2)[Freecodecamp](https://www.freecodecamp.org/learn)| 5|[Day3](https://dev.to/iamdurga/day-3-of-100daysofcode-decimal-to-binary-4hh8)|
+| December 27 2020|Python Data structure, HTML|[Coursera](https://www.coursera.org/completed?page=2)|, [Freecodecamp](https://www.freecodecamp.org/learn)| 5|[Day3](https://dev.to/iamdurga/day-3-of-100daysofcode-decimal-to-binary-4hh8)|
 | December 28 2020|Python Data structure, HTML|[Coursera](https://www.coursera.org/learn/python-data/home/welcome), [Freecodecamp](https://www.freecodecamp.org/learn)| 4|[Day4](https://dev.to/iamdurga/day-3-of-100daysofcode-code-to-calculate-hcf-of-two-numbers-488f)|
 | December 29 2020|Python Data structure|[Coursera](https://www.coursera.org/learn/python-data/home/welcome)| 2|[Day5](https://dev.to/iamdurga/day-5-of-100daysofcode-python-code-to-find-perfect-cube-in-range-18g0)|
 | December 30 2020|Python Data structure, HTML|[Coursera](https://www.coursera.org/learn/python-data/home/welcome), [Freecodecamp](https://www.freecodecamp.org/learn)|2|[Day6](https://dev.to/iamdurga/day-6-of-100daysofcode-python-code-to-find-even-and-odd-numbers-from-list-hpp)|
 | December 31 2020|Basic CSS|[Freecodecamp](https://www.freecodecamp.org/learn/)|5|[Day7](https://dev.to/iamdurga/day-7-of-100daysofcode-python-code-to-find-fibonacci-numbers-from-given-number-2n5k)|
+
 
 
 ## January 2021
@@ -72,6 +74,7 @@ Day starts with December 10 2020.
 |January 30 2021|Python data strucure(Stack), Completed some assignmen|Self Practice|2| [Day37](https://dev.to/iamdurga/day-37-of-100daysofcode-basic-data-structure-stack-2h6)|
 |January 31 2021|Python data strucure and Algorithm|[Coursera](https://www.coursera.org/learn/python-databases?specialization=python)|4|[Day38](https://dev.to/iamdurga/day-38-of-100daysofcode-basic-data-structure-queue-5g5j)|
   
+
 ## February 2021
 
 | Day          | What I learned | Where I Learned | Hours I Spent |Dev Post |
@@ -104,5 +107,12 @@ Day starts with December 10 2020.
 |February 26 2021|SQL From [Datacamp](https://campus.datacamp.com/courses/intermediate-sql/well-take-the-case?ex=7),Algorithmic Toolbox|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)|6|[Day60](https://dev.to/iamdurga/day-60-of-100daysofcode-intermediate-sql-3n4n)|
 |February 27 2021|SQL From [Datacamp](https://campus.datacamp.com/courses/intermediate-sql/well-take-the-case?ex=10),Algorithmic Toolbox|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)|6|[Day61](https://dev.to/iamdurga/day-61-of-100daysofcode-count-and-case-when-with-multiple-conditions-1284)|
 |February 28 2021|SQL From [Datacamp](https://campus.datacamp.com/courses/intermediate-sql/short-and-simple-subqueries?ex=9),Algorithmic Toolbox|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/programming/w9YDz/programming-assignment-4-divide-and-conquer)|4|[Day62](https://dev.to/iamdurga/day-62-of-100daysofcode-add-a-subquery-to-the-select-clause-2dl6)|
-|February 29 2021|pandas From [Datacamp](https://campus.datacamp.com/courses/importing-and-managing-financial-data-in-python/summarizing-your-data-and-visualizing-the-result?ex=5),Algorithmic Toolbox|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/programming/w9YDz/programming-assignment-4-divide-and-conquer)|5|[Day63](https://dev.to/iamdurga/day-63-of-100daysofcode-pandas-dispersion-1baa)|
-|February 30 2021|pandas,matplotlib  [Datacamp](https://campus.datacamp.com/courses/intermediate-python/matplotlib?ex=15)|6|[Day64](https://dev.to/iamdurga/day-64-of-100dayofcode-data-visualization-using-matplotlib-4p1g)|
+
+## March 2021
+
+| Day          | What I learned | Where I Learned | Hours I Spent |Dev Post |
+|-----------------|----------------|---------------|------|--------------|
+|March 1 2021|pandas From [Datacamp](https://campus.datacamp.com/courses/importing-and-managing-financial-data-in-python/summarizing-your-data-and-visualizing-the-result?ex=5),Algorithmic Toolbox|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/programming/w9YDz/programming-assignment-4-divide-and-conquer)|5|[Day63](https://dev.to/iamdurga/day-63-of-100daysofcode-pandas-dispersion-1baa)|
+| March 2 2021|pandas,matplotlib  [Datacamp](https://campus.datacamp.com/courses/intermediate-python/matplotlib?ex=15)|5|[Day64](https://dev.to/iamdurga/day-64-of-100dayofcode-data-visualization-using-matplotlib-4p1g)|
+| March 3 2021|pandas,matplotlib  [Datacamp](https://campus.datacamp.com/courses/intermediate-python/matplotlib?ex=15)|4|[Day65](https://dev.to/iamdurga/day-65-of-100daysofcode-implement-clumsiness-3l61)|
+
