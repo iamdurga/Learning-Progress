@@ -115,4 +115,6 @@ Day starts with December 10 2020.
 |March 1 2021|pandas From [Datacamp](https://campus.datacamp.com/courses/importing-and-managing-financial-data-in-python/summarizing-your-data-and-visualizing-the-result?ex=5),Algorithmic Toolbox|[Coursera](https://www.coursera.org/learn/algorithmic-toolbox/programming/w9YDz/programming-assignment-4-divide-and-conquer)|5|[Day63](https://dev.to/iamdurga/day-63-of-100daysofcode-pandas-dispersion-1baa)|
 | March 2 2021|pandas,matplotlib  [Datacamp](https://campus.datacamp.com/courses/intermediate-python/matplotlib?ex=15)|5|[Day64](https://dev.to/iamdurga/day-64-of-100dayofcode-data-visualization-using-matplotlib-4p1g)|
 | March 3 2021|pandas,matplotlib  [Datacamp](https://campus.datacamp.com/courses/intermediate-python/matplotlib?ex=15)|4|[Day65](https://dev.to/iamdurga/day-65-of-100daysofcode-implement-clumsiness-3l61)|
+| March 4 2021|pandas,matplotlib,numpy  [Datacamp](https://campus.datacamp.com/courses/intermediate-python/logic-control-flow-and-filtering?ex=8)|4|[Day66](https://dev.to/iamdurga/day-66-of-100daysofcode-boolean-operators-with-numpy-460)|
+
 
