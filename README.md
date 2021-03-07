@@ -118,6 +118,8 @@ Day starts with December 10 2020.
 | March 4 2021|pandas,matplotlib,numpy  [Datacamp](https://campus.datacamp.com/courses/intermediate-python/logic-control-flow-and-filtering?ex=8)|4|[Day66](https://dev.to/iamdurga/day-66-of-100daysofcode-boolean-operators-with-numpy-460)|
 | March 5 2021| Importing file in python  [Datacamp](https://campus.datacamp.com/courses/introduction-to-importing-data-in-python/importing-data-from-other-file-types-2?ex=15)|4|[Day67](https://dev.to/iamdurga/day-67-of-100daysofcode-extracting-data-from-hdf5-file-11i)|
 | March 6 2021| Importing file in python,regular expression [Datacamp](https://campus.datacamp.com/courses/data-science-for-everyone/introduction-to-data-science-1?ex=3)|5|[Day68](https://dev.to/iamdurga/day-68-of-100daysofcode-about-data-science-106)|
+| March 7 2021|Regular expression [Datacamp](https://campus.datacamp.com/courses/data-science-for-everyone/introduction-to-data-science-1?ex=3)|4|[Day69](https://dev.to/iamdurga/day-69-of-100daysofcode-continue-datacamp-course-50n2)|
+
 
 
 
