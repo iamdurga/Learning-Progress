@@ -120,6 +120,8 @@ Day starts with December 10 2020.
 | March 6 2021| Importing file in python,regular expression [Datacamp](https://campus.datacamp.com/courses/data-science-for-everyone/introduction-to-data-science-1?ex=3)|5|[Day68](https://dev.to/iamdurga/day-68-of-100daysofcode-about-data-science-106)|
 | March 7 2021|Regular expression [Datacamp](https://campus.datacamp.com/courses/data-science-for-everyone/introduction-to-data-science-1?ex=3)|4|[Day69](https://dev.to/iamdurga/day-69-of-100daysofcode-continue-datacamp-course-50n2)|
 | March 8 2021|Regular expression,web-scraping [Datacamp](https://campus.datacamp.com/courses/web-scraping-with-python/introduction-to-html?ex=5)|5|[Day70](https://dev.to/iamdurga/day-70-of-100daysofcode-news-extraction-from-html-file-20i1)|
+| March 9 2021|Blog on hcf using python,web-scraping [Datacamp](https://campus.datacamp.com/courses/web-scraping-with-python/xpaths-and-selectors?ex=15)|5|[Day71](https://dev.to/iamdurga/day-71-of-100daysofcode-web-scraping-gc9)|
+
 
 
 
