@@ -122,7 +122,7 @@ Day starts with December 10 2020.
 | March 8 2021|Regular expression,web-scraping | [Datacamp](https://campus.datacamp.com/courses/web-scraping-with-python/introduction-to-html?ex=5)|5|[Day70](https://dev.to/iamdurga/day-70-of-100daysofcode-news-extraction-from-html-file-20i1)|
 | March 9 2021|Blog on hcf using python,web-scraping | [Datacamp](https://campus.datacamp.com/courses/web-scraping-with-python/xpaths-and-selectors?ex=15)|5|[Day71](https://dev.to/iamdurga/day-71-of-100daysofcode-web-scraping-gc9)|
 | March 10 2021|Web-scraping | [Datacamp](https://campus.datacamp.com/courses/web-scraping-with-python/css-locators-chaining-and-responses?ex=6)|4|[Day72](https://dev.to/iamdurga/day-72-of-100daysofcode-css-locator-n4)|
-
+| March 11 2021|Data Visualization, web scraping |[dphi](https://dphi.tech/courses/) [Datacamp](https://campus.datacamp.com/courses/web-scraping-with-python/css-locators-chaining-and-responses?ex=6)|3|[Day73](https://dev.to/iamdurga/day-73-of-100daysofcode-data-visualization-44nm)|
 
 
 
