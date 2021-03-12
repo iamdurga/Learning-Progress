@@ -123,6 +123,8 @@ Day starts with December 10 2020.
 | March 9 2021|Blog on hcf using python,web-scraping | [Datacamp](https://campus.datacamp.com/courses/web-scraping-with-python/xpaths-and-selectors?ex=15)|5|[Day71](https://dev.to/iamdurga/day-71-of-100daysofcode-web-scraping-gc9)|
 | March 10 2021|Web-scraping | [Datacamp](https://campus.datacamp.com/courses/web-scraping-with-python/css-locators-chaining-and-responses?ex=6)|4|[Day72](https://dev.to/iamdurga/day-72-of-100daysofcode-css-locator-n4)|
 | March 11 2021|Data Visualization, web scraping |[dphi](https://dphi.tech/courses/) [Datacamp](https://campus.datacamp.com/courses/web-scraping-with-python/css-locators-chaining-and-responses?ex=6)|3|[Day73](https://dev.to/iamdurga/day-73-of-100daysofcode-data-visualization-44nm)|
+| March 12 2021|Pandas, Scraping News Portal|[Datacamp](https://campus.datacamp.com/courses/data-manipulation-with-pandas/aggregating-data-cb562b9d-5e79-4c37-b15f-30fc1567e8f1?ex=1)|5|[Day74](https://dev.to/iamdurga/day-74-of-100daysofcode-scrapping-news-portal-using-beautifulsoup-3ojm)|
+
 
 
 
