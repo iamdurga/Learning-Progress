@@ -125,6 +125,10 @@ Day starts with December 10 2020.
 | March 11 2021|Data Visualization, web scraping |[dphi](https://dphi.tech/courses/) [Datacamp](https://campus.datacamp.com/courses/web-scraping-with-python/css-locators-chaining-and-responses?ex=6)|3|[Day73](https://dev.to/iamdurga/day-73-of-100daysofcode-data-visualization-44nm)|
 | March 12 2021|Pandas, Scraping News Portal|[Datacamp]()|5|[Day74](https://dev.to/iamdurga/day-74-of-100daysofcode-scrapping-news-portal-using-beautifulsoup-3ojm)|
 | March 13 2021|Scraping differebt categories news of news portal| None |5|[Day75](https://dev.to/iamdurga/day-75-of-100daysofcode-scrapping-different-categories-of-news-of-news-portal-using-beautifulsoup-pnj)|
+| March 14 202|Family trip for one day| None |None|None|
+
+
+
 
 
 
