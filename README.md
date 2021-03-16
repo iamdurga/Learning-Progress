@@ -126,6 +126,12 @@ Day starts with December 10 2020.
 | March 12 2021|Pandas, Scraping News Portal|[Datacamp]()|5|[Day74](https://dev.to/iamdurga/day-74-of-100daysofcode-scrapping-news-portal-using-beautifulsoup-3ojm)|
 | March 13 2021|Scraping differebt categories news of news portal| None |5|[Day75](https://dev.to/iamdurga/day-75-of-100daysofcode-scrapping-different-categories-of-news-of-news-portal-using-beautifulsoup-pnj)|
 | March 14 202|Family trip for one day| None |None|None|
+| March 15 2021|BeautifulShop tutorial, News Scrapping|[Datacamp](https://www.datacamp.com/community/tutorials/tutorial-python-beautifulsoup-datacamp-tutorials) |4|[Day76](https://dev.to/iamdurga/day-76-of-100daysofcode-python-beautifulsoup-to-scrape-datacamp-tutorials-analyze-52b4)|
+| March 16 2021|News Scrapping(Gorkha Patra Online)|None |4|[Day77](https://dev.to/iamdurga/day-77-of-100daysofcode-scrapping-news-of-gorkha-patra-online-2o6g)|
+
+
+
+
 
 
 
