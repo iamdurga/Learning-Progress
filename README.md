@@ -130,7 +130,7 @@ Day starts with December 10 2020.
 | March 16 2021|News Scrapping(Gorkha Patra Online)|None |3.5|[Day77](https://dev.to/iamdurga/day-77-of-100daysofcode-scrapping-news-of-gorkha-patra-online-2o6g)|
 | March 17 2021|News Scrapping(Gorkha Patra Online)|None |2|[Day78](https://dev.to/iamdurga/day-78-of-100daysofcode-worked-on-own-project-2nh7)|
 | March 18 2021|News Scrapping(Annapurna news portal),Blog, Datascience for everyone|[Blog](https://iamdurga.github.io/2021/03/15/how-to-find-square-numbers-from-given-list-using-python/),[Datacamp](https://campus.datacamp.com/courses/data-science-for-everyone/introduction-to-data-science-1?ex=10) |6|[Day79](https://dev.to/iamdurga/day-79-of-100daysofcode-data-science-for-everyone-from-datacamp-5728)|
-
+| March 19 2021|News Scrapping(Annapurna news portal), Datascience for everyone|,[Datacamp](https://campus.datacamp.com/courses/data-science-for-everyone/introduction-to-data-science-1?ex=10) |3|[Day80](https://dev.to/iamdurga/day-80-of-100daysofcode-classifying-data-types-from-data-science-for-everybody-39o1)|
 
 
 
