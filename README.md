@@ -132,6 +132,13 @@ Day starts with December 10 2020.
 | March 18 2021|News Scrapping(Annapurna news portal),Blog, Datascience for everyone|[Blog](https://iamdurga.github.io/2021/03/15/how-to-find-square-numbers-from-given-list-using-python/),[Datacamp](https://campus.datacamp.com/courses/data-science-for-everyone/introduction-to-data-science-1?ex=10) |6|[Day79]()|
 | March 19 2021|News Scrapping(Annapurna news portal), Datascience for everyone|,[Datacamp](https://campus.datacamp.com/courses/data-science-for-everyone/introduction-to-data-science-1?ex=10) |3|[Day80](https://dev.to/iamdurga/day-80-of-100daysofcode-classifying-data-types-from-data-science-for-everybody-39o1)|
 | March 20 2021|News Scrapping, Data Manupulating with pandas|,[Datacamp](https://campus.datacamp.com/courses/data-manipulation-with-pandas/aggregating-data-cb562b9d-5e79-4c37-b15f-30fc1567e8f1?ex=2) |6|[Day81](https://dev.to/iamdurga/day-81-of-100daysofcode-worked-on-own-project-57g)|
+| March 21 2021|News Scrapping, Data Manupulating with pandas|,[Datacamp](https://campus.datacamp.com/courses/data-manipulation-with-pandas/aggregating-data-cb562b9d-5e79-4c37-b15f-30fc1567e8f1?ex=2) |4|[Day82](https://dev.to/iamdurga/day-82-of-100daysofcode-data-manipulation-with-pandas-3hgh)|
+
+
+
+
+
+|
 
 
 
