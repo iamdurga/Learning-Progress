@@ -125,7 +125,7 @@ Day starts with December 10 2020.
 | March 11 2021|Data Visualization, web scraping |[dphi](https://dphi.tech/courses/) [Datacamp](https://campus.datacamp.com/courses/web-scraping-with-python/css-locators-chaining-and-responses?ex=6)|3|[Day73](https://dev.to/iamdurga/day-73-of-100daysofcode-data-visualization-44nm)|
 | March 12 2021|Pandas, Scraping News Portal|[Datacamp]()|5|[Day74](https://dev.to/iamdurga/day-74-of-100daysofcode-scrapping-news-portal-using-beautifulsoup-3ojm)|
 | March 13 2021|Scraping differebt categories news of news portal| None |5|[Day75](https://dev.to/iamdurga/day-75-of-100daysofcode-scrapping-different-categories-of-news-of-news-portal-using-beautifulsoup-pnj)|
-| March 14 202|Family trip for one day| None |None|None|
+| March 14 2021|Family trip for one day| None |None|None|
 | March 15 2021|BeautifulShop tutorial, News Scrapping|[Datacamp](https://www.datacamp.com/community/tutorials/tutorial-python-beautifulsoup-datacamp-tutorials) |4|[Day76](https://dev.to/iamdurga/day-76-of-100daysofcode-python-beautifulsoup-to-scrape-datacamp-tutorials-analyze-52b4)|
 | March 16 2021|News Scrapping(Gorkha Patra Online)|None |3.5|[Day77](https://dev.to/iamdurga/day-77-of-100daysofcode-scrapping-news-of-gorkha-patra-online-2o6g)|
 | March 17 2021|News Scrapping(Gorkha Patra Online)|None |2|[Day78](https://dev.to/iamdurga/day-78-of-100daysofcode-worked-on-own-project-2nh7)|
@@ -136,6 +136,14 @@ Day starts with December 10 2020.
 | March 22 2021|News Scrapping, Introduction to datascience in python |[Datacamp](https://campus.datacamp.com/courses/introduction-to-data-science-in-python/loading-data-in-pandas?ex=5) |5|[Day83](https://dev.to/iamdurga/day-83-of-100daysofcode-1bm1)|
 | March 23 2021|News Scrapping, Introduction to datascience in python |[Datacamp](https://campus.datacamp.com/courses/introduction-to-data-science-in-python/loading-data-in-pandas?ex=5) |4|[Day84](https://dev.to/iamdurga/day-84-of-100daysofcode-continue-to-learn-introduction-to-data-science-in-python-36cg)|
 | March 24 2021|News Scrapping, Supervised Learning with scikit-learn |[Datacamp](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/classification?ex=2) |4|[Day85](https://dev.to/iamdurga/day-85-of-100daysofcode-supervised-learning-with-scikit-learn-1kfi)|
+| March 25 2021|News Scrapping, Supervised Learning with scikit-learn |[Datacamp](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/classification?ex=2) |5|[Day86](https://dev.to/iamdurga/day-86-of-100daysofcode-wrote-blog-for-project-g93)|
+
+
+
+
+
+
+
 
 
 
