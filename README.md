@@ -140,6 +140,12 @@ Day starts with December 10 2020.
 | March 26 2021|Wrote blog for project |[Blog](https://iamdurga.github.io/2021/03/23/nepali-news-scrapping-ekantipur/) |5|[Day87](https://dev.to/iamdurga/day-87-of-100daysofcode-wrote-blog-for-news-scrapping-jig)|
 | March 27 2021|Measuring model performance|[DataCamp](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/classification?ex=9) |5|[Day88](https://dev.to/iamdurga/day-89-of-100daysofcode-measuring-model-performance-f5p)|
 | March 28 2021|Measuring model performance,News Scrapping|[DataCamp](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/classification?ex=9) |6|[Day89](https://dev.to/iamdurga/day-89-of-100daysofcode-written-blog-for-another-news-portal-44fa)|
+| March 29 2021|Overfitting and Underfitting, Blog on News Scrapping|[DataCamp](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/classification?ex=12),[Blog](https://iamdurga.github.io/2021/03/28/nepali-news-scrapping-gorkhapatra/) |6|[Day90](https://dev.to/iamdurga/day-90-of-100daysofcode-overfitting-and-underfitting-4j2m)|
+
+
+
+
+
 
 
 
