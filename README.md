@@ -142,6 +142,13 @@ Day starts with December 10 2020.
 | March 28 2021|Measuring model performance,News Scrapping|[DataCamp](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/classification?ex=9) |6|[Day89]()|
 | March 29 2021|Overfitting and Underfitting, Blog on News Scrapping|[DataCamp](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/classification?ex=12),[Blog](https://iamdurga.github.io/2021/03/28/nepali-news-scrapping-gorkhapatra/) |6|[Day90](https://dev.to/iamdurga/day-90-of-100daysofcode-overfitting-and-underfitting-4j2m)|
 | March 30 2021|Natural Language Processing, witten blog|[DataCamp](https://campus.datacamp.com/courses/introduction-to-natural-language-processing-in-python/regular-expressions-word-tokenization?ex=5),[Blog](https://iamdurga.github.io/2021/03/19/nepali-news-scrapping-annapurna/) |5|[Day91](https://dev.to/iamdurga/day-91-of-100daysofcode-word-tokenization-with-nltk-4a8n)|
+| March 31 2021|Natural Language Processing|[DataCamp](https://campus.datacamp.com/courses/introduction-to-natural-language-processing-in-python/regular-expressions-word-tokenization?ex=12) |4|[Day92](https://dev.to/iamdurga/day-92-of-100daysofcode-charting-practice-3cfp)|
+
+
+
+
+
+
 
 
 
