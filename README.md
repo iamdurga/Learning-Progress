@@ -144,7 +144,11 @@ Day starts with December 10 2020.
 | March 30 2021|Natural Language Processing, witten blog|[DataCamp](https://campus.datacamp.com/courses/introduction-to-natural-language-processing-in-python/regular-expressions-word-tokenization?ex=5),[Blog](https://iamdurga.github.io/2021/03/19/nepali-news-scrapping-annapurna/) |5|[Day91](https://dev.to/iamdurga/day-91-of-100daysofcode-word-tokenization-with-nltk-4a8n)|
 | March 31 2021|Natural Language Processing|[DataCamp](https://campus.datacamp.com/courses/introduction-to-natural-language-processing-in-python/regular-expressions-word-tokenization?ex=12) |4|[Day92](https://dev.to/iamdurga/day-92-of-100daysofcode-charting-practice-3cfp)|
 
+## April 2021
 
+| Day          | What I learned | Where I Learned | Hours I Spent |Dev Post |
+|-----------------|----------------|---------------|------|--------------|
+|April 1 2021|Bank's intrest rate scrapping|None|3|[Day93](https://dev.to/iamdurga/day-93-of-100daysofcode-bank-data-scrapping-4llm)|
 
 
 
