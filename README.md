@@ -150,7 +150,7 @@ Day starts with December 10 2020.
 |-----------------|----------------|---------------|------|--------------|
 |April 1 2021|Bank's intrest rate scrapping|None|3|[Day93](https://dev.to/iamdurga/day-93-of-100daysofcode-bank-data-scrapping-4llm)|
 |April 2 2021|Bank's intrest rate scrapping,Introduction gensim|[DataCamp](https://campus.datacamp.com/courses/introduction-to-natural-language-processing-in-python/simple-topic-identification?ex=7)|4|[Day94](https://dev.to/iamdurga/day-94-of-100daysofcode-introduction-to-gensim-317)|
-
+|April 3 2021|Bank's intrest rate scrapping,Tf-idf with gensim|[DataCamp](https://campus.datacamp.com/courses/introduction-to-natural-language-processing-in-python/simple-topic-identification?ex=7)|2|[Day95](https://dev.to/iamdurga/day-95-of-100daysofcode-collected-data-for-second-project-433f)|
 
 
 
