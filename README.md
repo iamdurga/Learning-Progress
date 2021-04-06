@@ -153,6 +153,7 @@ Day starts with December 10 2020.
 |April 3 2021|Bank's intrest rate scrapping,Tf-idf with gensim|[DataCamp](https://campus.datacamp.com/courses/introduction-to-natural-language-processing-in-python/simple-topic-identification?ex=7)|2|[Day95](https://dev.to/iamdurga/day-94-of-100daysofcode-introduction-to-gensim-317)|
 |April 4 2021|Bank's intrest rate scrapping,Streamlit, Attending on second meeting of code for Nepal|None|4|[Day96](https://dev.to/iamdurga/day-94-of-100daysofcode-introduction-to-gensim-317)|
 |April 5 2021|Streamlit,supervised learning|[DataCamp](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/regression-2?ex=1)|3|[Day97](https://dev.to/iamdurga/day-97-of-100daysofcode-introduction-to-supervised-learning-problem-regression-4958)|
+|April 6 2021|Streamlit,Cross Validation|[DataCamp](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/fine-tuning-your-model?ex=2)|3|[Day98](https://dev.to/iamdurga/day-98-of-100daysofcode-learning-about-confusion-matrix-o3b)|
 
 
 
