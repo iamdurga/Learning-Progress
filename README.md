@@ -155,6 +155,8 @@ Day starts with December 10 2020.
 |April 5 2021|Streamlit,supervised learning|[DataCamp](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/regression-2?ex=1)|3|[Day97](https://dev.to/iamdurga/day-97-of-100daysofcode-introduction-to-supervised-learning-problem-regression-4958)|
 |April 6 2021|Streamlit,Cross Validation|[DataCamp](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/fine-tuning-your-model?ex=2)|3|[Day98](https://dev.to/iamdurga/day-98-of-100daysofcode-learning-about-confusion-matrix-o3b)|
 |April 7 2021|Centering and scaling in a pipeline|[DataCamp](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/preprocessing-and-pipelines?ex=11)|2|[Day99](https://dev.to/iamdurga/day-99-of-100daysofcode-centering-and-scaling-in-a-pipeline-51g1)|
+|April 8 2021|Regression with categorical features|[DataCamp](https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/preprocessing-and-pipelines?ex=4)|3|[Day100](https://dev.to/iamdurga/day-100-of-100daysofcode-regression-with-categorical-features-47o)|
+
 
 
 
