@@ -159,14 +159,8 @@ Day starts with December 10 2020.
 |April 9 2021|Nothing|None|Zero|None|
 |April 10 2021|Nothing|None|Zero|None|
 |April 11 2021|Nothing|None|Zero|None|
-
-
-
-
-
-
-
-
+|April 12 2021|Nothing|None|Zero|None|
+|April 13 2021|More regex with re.search()|[DataCamp](https://campus.datacamp.com/courses/introduction-to-natural-language-processing-in-python/regular-expressions-word-tokenization?ex=6)|1|None|
 
 
 
