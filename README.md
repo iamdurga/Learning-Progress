@@ -162,8 +162,8 @@ Day starts with December 10 2020.
 |April 12 2021|Nothing|None|Zero|None|
 |April 13 2021|More regex with re.search|[DataCamp](https://campus.datacamp.com/courses/introduction-to-natural-language-processing-in-python/regular-expressions-word-tokenization?ex=6)|1|None|
 |April 14 2021|Non-ascii tokenization|[DataCamp]()|1|None|
-|April 15 2021|Data visualization|[DataCamp](https://campus.datacamp.com/courses/data-visualization-for-everyone/visualizing-distributions?ex=1)|1|None|
-
+|April 15 2021|Data visualization|[DataCamp]()|1|None|
+|April 16 2021|Data visualization|[DataCamp](https://campus.datacamp.com/courses/data-visualization-for-everyone/visualizing-distributions?ex=6)|1|None|
 
 
 
