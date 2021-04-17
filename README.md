@@ -164,11 +164,7 @@ Day starts with December 10 2020.
 |April 14 2021|Non-ascii tokenization|[DataCamp]()|1|None|
 |April 15 2021|Data visualization|[DataCamp]()|1|None|
 |April 16 2021|Data visualization|[DataCamp](https://campus.datacamp.com/courses/data-visualization-for-everyone/visualizing-distributions?ex=6)|1|None|
-
-
-
-
-
+|April 17 2021|Data visualization|[DataCamp](https://campus.datacamp.com/courses/data-visualization-for-everyone/visualizing-two-variables-2?ex=4)|1|None|
 
 
 
