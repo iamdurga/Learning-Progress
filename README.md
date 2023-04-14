@@ -6,6 +6,7 @@ This is the repository where I intend to write my progress throughout learning P
 * [January 2021](#January-2021)
 * [February 2021](#February-2021)
 * [March 2021](#March-2021)
+* [April 2023](#April-2023)
 
 Day starts with December 10 2020.
 
@@ -213,3 +214,9 @@ Day starts with December 10 2020.
 
 
 
+
+## April 2023
+
+| Day          | What I learned |
+|-----------------|----------------|
+|April 14 2023|Neural Network|
