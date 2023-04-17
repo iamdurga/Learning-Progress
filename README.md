@@ -220,3 +220,5 @@ Day starts with December 10 2020.
 | Day          | What I learned |
 |-----------------|----------------|
 |April 14 2023|Neural Network|
+|April 15 2023|Neural Network|
+|April 16 2023|Gradient Descent|
