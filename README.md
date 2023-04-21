@@ -222,3 +222,8 @@ Day starts with December 10 2020.
 |April 14 2023|Neural Network|
 |April 15 2023|Neural Network|
 |April 16 2023|Gradient Descent|
+|April 17 2023|Linear Regression|
+|April 18 2023|Linear Regression with sin(x) function|
+|April 19 2023|Neural Network|
+|April 20 2023|Pandas|
+|April 21 2023|Neural Network|
